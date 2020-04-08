@@ -1,8 +1,7 @@
 #!/usr/bin/env perl
 #;-*- Perl -*-
 
-# Created by dano 10-01-10
-# LAST MODIFIED by dano: 10-01-10
+
 # Reads CONTCAR prints alchemical hardness matrix
 ######################################################
 ######################################################
