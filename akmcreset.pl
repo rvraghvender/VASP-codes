@@ -9,8 +9,6 @@ use Vasp;
 # This script resets the "done" and "bad" saddles in the st.dat file to the status
 # of "quenching" and "promising" so that the saddle evaluation can be performed
 # with a new energy and distance tolerance. There may be other uses.
-# (written by Lijun Xu and Graeme Henkelman in the University of Texas at Austin.
-# last modifed by Lijun on July 20, 2007 )
 #################################################################################
 @ARGV==1 || die "Usage: akmc_reset_bad.pl <st.dat> \n";
 $min="min";
