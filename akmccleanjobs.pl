@@ -6,7 +6,6 @@
 # It cleans up the killed run into "killed" folder to save some disk space.
 # In the updated akmc.pl, the killed runs will be handled as unconverged and 
 # cleaned into inter* folders.
-# last updated by Lijun Xu at Oak Ridge 06/20/2008
 #########################################################
 use FindBin qw($Bin);
 use lib "$Bin";
