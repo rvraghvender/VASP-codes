@@ -5,8 +5,6 @@
 following features: atom and atoms objects, some of ase.io and some of
 ase.constraints.'''
 
-# Copyright 2008, 2009 CAMd
-# (see accompanying license files for details).
 
 from math import cos, sin
 import warnings
