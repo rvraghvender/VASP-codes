@@ -1,8 +1,6 @@
 #!/usr/bin/env perl
 #;-*- Perl -*-
 
-# Created by dano 5-28-08
-# LAST MODIFIED by dano: 4-29-10
 # convert chgcar and locpot to cube format
 ##################################################
 # 4-29: fixed RHO reading issuse
