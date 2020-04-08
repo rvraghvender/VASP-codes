@@ -1,8 +1,7 @@
 #!/usr/bin/env perl
 #;-*- Perl -*-
 
-# Created by dano 10-27-09
-# LAST MODIFIED by dano: 10-27-09
+
 # Reads OUTCAR for electrostatic potential information
 # prints to screen and file
 ######################################################
