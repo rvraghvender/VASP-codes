@@ -1,9 +1,7 @@
 #!/usr/bin/env perl
 #;-*- Perl -*-
 #####################################################################################
-# Make movies of the vibrational modes calculated from the dynamical matrix         #
-# written by Lijun Xu and Graeme Henkelman in the Univeristy of Texas at Austin     #
-# Last modified by GH on May 23, 2008                                               #
+# Make movies of the vibrational modes calculated from the dynamical matrix         #                                              #
 #####################################################################################
 use FindBin qw($Bin) ;
 use lib "$Bin" ;
