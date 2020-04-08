@@ -1,8 +1,7 @@
 #!/usr/bin/env perl
 #;-*- Perl -*-
 #####################################################################################
-# Make movies of the negative mode of the dimer                                     #
-# Written by Lijun Xu                                                               #
+# Make movies of the negative mode of the dimer                                     #                                                            #
 #####################################################################################
 use FindBin qw($Bin) ;
 use lib "$Bin" ;
