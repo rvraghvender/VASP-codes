@@ -6,8 +6,6 @@ use lib "$Bin";
 use Vasp;
 #####################################################################################
 # Make movies for Adaptive kinetic Monte Carlo Simulation 1.0                       #
-# by Lijun Xu and Graeme Henkelman (Univ. of Texas at Austin)                       #
-# (last modifed by Lijun on July04, 2006)                                           #
 #####################################################################################
 if ( $/ ne "\n" )
 {
